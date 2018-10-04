@@ -11,7 +11,7 @@ public class CardTester {
 		/* *** TO BE IMPLEMENTED IN ACTIVITY 1 *** */
 		Card card1 = new Card("ace", "spades", 11);
 		Card card2 = new Card("three", "hearts", 3);
-		Card card3 = new Card("eight", "clubs", 8);
+		Card card3 = new Card("ace", "spades", 11);
 		System.out.println("Card 1 is a(n) " + card1.toString());
 		System.out.println("Card 2 is a(n) " + card2.toString());
 		System.out.println("Card 3 is a(n) " + card3.toString());
